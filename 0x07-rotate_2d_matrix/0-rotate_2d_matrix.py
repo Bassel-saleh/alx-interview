@@ -5,11 +5,11 @@ def rotate_2d_matrix(matrix):
     """
         Rotates a 2D matrix
     """
-    if type(matrix) != list:
+    if not isinstance(matrix, list):
         return
     if len(matrix) <= 0:
         return
-    if not all(map(lambda x: type(x) == list, matrix)):
+    if not all(map(lambda x: isinstance(matrix, list), matrix)):
         return
     rows = len(matrix)
     cols = len(matrix[0])
