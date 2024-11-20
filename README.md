@@ -7,4 +7,5 @@
 * 0x04. UTF-8 Validation
 * 0x05. N Queens
 * 0x06. Star Wars API
+* 0x07. Rotate 2D Matrix
 ##### Have fun learning ;)
