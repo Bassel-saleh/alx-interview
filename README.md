@@ -10,4 +10,5 @@
 * 0x07. Rotate 2D Matrix
 * 0x08. Making Change
 * 0x09. Island Perimeters
+* 0x0A. Prime Game
 ##### Have fun learning ;)
